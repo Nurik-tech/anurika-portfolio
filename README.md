@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Anurika Portfolio
 
-## Getting Started
+A modern software engineering portfolio built with Next.js, React, TypeScript, and Tailwind CSS to showcase my projects, technical skills, and engineering experience.
 
-First, run the development server:
+## Live Website
+
+https://anurika.dev
+
+---
+
+## About The Project
+
+I built this portfolio to create a clean and professional space to showcase the software projects I’ve worked on, including SaaS products, mobile applications, simulations, networking projects, and backend systems.
+
+The goal was to design something modern, responsive, and simple while keeping performance and user experience in mind.
+
+---
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+---
+
+## Features
+
+- Responsive modern UI
+- Featured SaaS project section
+- Technical project showcase
+- Certifications section
+- Smooth responsive layout
+- Production deployment on Vercel
+
+---
+
+## Projects Included
+
+### Rikly
+A production SaaS platform built with:
+- Next.js
+- TypeScript
+- Supabase
+- Stripe
+- Paystack
+- Resend
+- Vercel
+
+### Stock Market App
+A Flutter mobile application integrating stock market APIs and financial news APIs.
+
+### Monte Carlo Simulation
+A Python probability simulation project using NumPy, Matplotlib, and Tableau.
+
+---
+
+## Running The Project Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Nurik-tech/anurika-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## What I Learned
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+While building this portfolio, I improved my experience with:
+- modern UI design
+- responsive layouts
+- component structure in React
+- deployment workflows with Vercel
+- organizing technical projects professionally
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Portfolio: https://anurika.dev
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+LinkedIn:
+https://www.linkedin.com/in/anurika-osuji/
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub:
+https://github.com/Nurik-tech
