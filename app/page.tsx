@@ -194,12 +194,13 @@ export default function Home() {
             </a>
 
             <a
-              href="/resume.pdf"
-              target="_blank"
-              className="rounded-full border border-white/15 px-6 py-3 text-sm font-medium text-white transition hover:border-white/40"
-            >
-              Resume
-            </a>
+  href="/resume/Anurika_Osuji_Cv.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-full border border-white/15 px-6 py-3 text-sm font-medium text-white transition hover:border-white/40"
+>
+  Download Resume
+</a>
           </div>
         </div>
       </section>
